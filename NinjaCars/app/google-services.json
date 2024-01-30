@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "997704440585",
+    "firebase_url": "https://ninjacarshelper-default-rtdb.firebaseio.com",
     "project_id": "ninjacarshelper",
     "storage_bucket": "ninjacarshelper.appspot.com"
   },
